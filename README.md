@@ -18,7 +18,7 @@ lorenzo.spina at inaf.it
 - Preprocessing, Testing and Validating
 - Working with Real Data
 
-Part 2. Supervised Learning
+### Part 2. Supervised Learning
 - Performance Measures for Regression and Classification
 - Linear and Polynomial Regression
 - Gradient Descent 
@@ -30,7 +30,7 @@ Part 2. Supervised Learning
 - Artificial Neural Networks
 - Training Deep Neural Networks
 
-Part 3. Unsupervised Learning
+### Part 3. Unsupervised Learning
 - Clustering
 - Dimensionality Reduction (?)
 
