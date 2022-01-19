@@ -3,7 +3,9 @@ PhD schools in Astronomy and Astrophysics (University of Padua) - General course
 
 # Contacts
 Lorenzo Spina
+
 INAF - Astronomical Observatory of Padua
+
 lorenzo.spina at inaf.it
 
 # Roadmap 
