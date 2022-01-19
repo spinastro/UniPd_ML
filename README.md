@@ -11,7 +11,7 @@ lorenzo.spina at inaf.it
 # Roadmap 
 (subject to changes)
 
-Part 1: Fundamentals of Machine Learning
+### Part 1: Fundamentals of Machine Learning
 - What is Machine Learning?
 - Types of Machine Learning Systems
 - Main pitfalls of Machine Learning
