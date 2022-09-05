@@ -6,9 +6,9 @@ Lorenzo Spina
 
 INAF - Astronomical Observatory of Padua
 
-lorenzo.spina at inaf.it
+spina.astro at gmail.com
 
-# Roadmap 
+# Roadmap
 (subject to changes)
 
 ### Part 1: Fundamentals of Machine Learning
@@ -21,7 +21,7 @@ lorenzo.spina at inaf.it
 ### Part 2. Supervised Learning
 - Performance Measures for Regression and Classification
 - Linear and Polynomial Regression
-- Gradient Descent 
+- Gradient Descent
 - Learning Curves
 - Regularisation
 - Support Vector Machines
@@ -33,4 +33,3 @@ lorenzo.spina at inaf.it
 ### Part 3. Unsupervised Learning
 - Clustering
 - Dimensionality Reduction (?)
-
