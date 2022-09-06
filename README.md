@@ -1,5 +1,5 @@
-# UniPd_ML
-PhD schools in Astronomy and Astrophysics (University of Padua) - General course on Machine Learning
+# Machine Learning
+Hands-on course on Machine Learning with Python
 
 # Contacts
 Lorenzo Spina
